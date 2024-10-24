@@ -16,6 +16,8 @@ The dashboard reveals that March had the highest sales and orders, standing out 
   
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
 
+https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Age%20vs%20Gender.png?raw=true
+
   
   
 2.Who purchased more – Men or Women?
@@ -36,7 +38,9 @@ Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35%
 
 Adults aged 30-49, especially women, are the largest contributors, making up 50% of orders.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Age%20vs%20Gender.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Age%20vs%20Gender.png?raw=true)
+
+
 
 5.What are the different order statuses in 2022?
 
