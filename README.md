@@ -32,7 +32,7 @@ Women are more likely to purchase, contributing 65% of the sales.
 
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35% of total sales.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Top%205%20States.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Top%205%20States.png?raw=true)
 
 4.What is the relation between age, gender, and number of orders?
 
