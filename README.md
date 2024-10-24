@@ -14,7 +14,7 @@ Key Insights:
   
 The dashboard reveals that March had the highest sales and orders, standing out as the top-performing month of the year. 
   
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Order%20vs%20sale.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Order%20vs%20sale.png?raw=true)
 
 
 
@@ -25,7 +25,7 @@ The dashboard reveals that March had the highest sales and orders, standing out 
 
 Women are more likely to purchase, contributing 65% of the sales.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Men%20vs%20Women.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Men%20vs%20Women.png?raw=true)
 
 
 
@@ -39,7 +39,7 @@ Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35%
 
 Adults aged 30-49, especially women, are the largest contributors, making up 50% of orders.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Age%20vs%20Gender.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Age%20vs%20Gender.png?raw=true)
 
 
 
@@ -51,7 +51,7 @@ Refunds: 3%
 Returns: 7%
 Cancellations: 2%
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Order%20Status.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Order%20Status.png?raw=true)
 
 
 6.Which sales channel contributes the most to sales?
@@ -60,11 +60,11 @@ Amazon, Flipkart, and Myntra are the leading channels, accounting for 80% of sal
 Conclusion to improve Vrinda Store’s sales:
 Focus on targeting women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh by using ads, offers, and coupons on Amazon, Flipkart, and Myntra.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Order%20Channel.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Order%20Channel.png?raw=true)
 
 Conclusion to improve Vrinda store sales:
 
 -Target women customers of the age group (30-49 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Report.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_Picture/Report.png?raw=true)
 
