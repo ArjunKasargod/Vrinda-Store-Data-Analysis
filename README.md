@@ -26,19 +26,19 @@ Women are more likely to purchase, contributing 65% of the sales.
 
 
 
-Which are the top 5 states contributing to sales?
+3.Which are the top 5 states contributing to sales?
 
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35% of total sales.
 
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Top%205%20States.png?raw=true)
 
-What is the relation between age, gender, and number of orders?
+4.What is the relation between age, gender, and number of orders?
 
 Adults aged 30-49, especially women, are the largest contributors, making up 50% of orders.
 
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Age%20vs%20Gender.png?raw=true)
 
-What are the different order statuses in 2022?
+5.What are the different order statuses in 2022?
 
 The order statuses in 2022 were as follows:
 Successfully Delivered: 88%
@@ -49,7 +49,7 @@ Cancellations: 2%
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20Status.png?raw=true)
 
 
-Which sales channel contributes the most to sales?
+6.Which sales channel contributes the most to sales?
 
 Amazon, Flipkart, and Myntra are the leading channels, accounting for 80% of sales.
 Conclusion to improve Vrinda Store’s sales:
