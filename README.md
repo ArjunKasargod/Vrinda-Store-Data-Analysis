@@ -37,6 +37,7 @@ Successfully Delivered: 88%
 Refunds: 3%
 Returns: 7%
 Cancellations: 2%
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20Status.png?raw=true)
 Which sales channel contributes the most to sales?
 
 Amazon, Flipkart, and Myntra are the leading channels, accounting for 80% of sales.
