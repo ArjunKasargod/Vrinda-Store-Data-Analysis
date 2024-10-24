@@ -17,6 +17,7 @@ Key Insights:
   
 2.Who purchased more – Men or Women?
 Women are more likely to purchase, contributing 65% of the sales.
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Age%20vs%20Gender.png?raw=true)
 
 Which are the top 5 states contributing to sales?
 
