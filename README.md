@@ -12,9 +12,9 @@ Key Insights:
 
 1.Which month had the highest sales and orders?
   
-  The dashboard reveals that March had the highest sales and orders, standing out as the top-performing month of the year. 
+The dashboard reveals that March had the highest sales and orders, standing out as the top-performing month of the year. 
   
-  ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
 
   
   
@@ -30,6 +30,8 @@ Which are the top 5 states contributing to sales?
 
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35% of total sales.
 
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Men%20vs%20Women.png?raw=true)
+
 What is the relation between age, gender, and number of orders?
 
 Adults aged 30-49, especially women, are the largest contributors, making up 50% of orders.
@@ -42,10 +44,14 @@ Successfully Delivered: 88%
 Refunds: 3%
 Returns: 7%
 Cancellations: 2%
+
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20Status.png?raw=true)
+
+
 Which sales channel contributes the most to sales?
 
 Amazon, Flipkart, and Myntra are the leading channels, accounting for 80% of sales.
 Conclusion to improve Vrinda Store’s sales:
 Focus on targeting women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh by using ads, offers, and coupons on Amazon, Flipkart, and Myntra.
+
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
