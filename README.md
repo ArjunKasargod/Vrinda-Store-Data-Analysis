@@ -30,11 +30,12 @@ Which are the top 5 states contributing to sales?
 
 Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states, contributing 35% of total sales.
 
-![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Men%20vs%20Women.png?raw=true)
+![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Top%205%20States.png?raw=true)
 
 What is the relation between age, gender, and number of orders?
 
 Adults aged 30-49, especially women, are the largest contributors, making up 50% of orders.
+
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Age%20vs%20Gender.png?raw=true)
 
 What are the different order statuses in 2022?
