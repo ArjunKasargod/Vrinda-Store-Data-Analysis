@@ -62,3 +62,7 @@ Focus on targeting women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh
 
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Order%20Channel.png?raw=true)
 
+Conclusion to improve Vrinda store sales:
+
+-Target women customers of the age group (30-49 years) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
