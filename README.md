@@ -16,7 +16,7 @@ The dashboard reveals that March had the highest sales and orders, standing out 
   
 ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Order%20vs%20sales.png?raw=true)
 
-https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Insight_SS/Age%20vs%20Gender.png?raw=true
+
 
   
   
