@@ -11,7 +11,10 @@ Project Highlights:
 Key Insights:
 
 1.Which month had the highest sales and orders?
-  The dashboard reveals that March had the highest sales and orders, standing out as the top-performing month of the year. ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
+  
+  The dashboard reveals that March had the highest sales and orders, standing out as the top-performing month of the year. 
+  
+  ![image alt](https://github.com/ArjunKasargod/Vrinda-Store-Data-Analysis/blob/main/Order%20vs%20sales.png?raw=true)
 
   
   
